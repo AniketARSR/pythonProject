@@ -1,0 +1,10 @@
+defaultConfig {
+
+        applicationId "vfjv"
+        version "gtrgt"
+        minSdkVersion 25
+        targetSdkVersion 29
+        versionCode flutterVersionCode.toInteger()
+        versionName flutterVersionName
+        multiDexEnabled true
+    }
